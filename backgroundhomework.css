@@ -1,0 +1,460 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url("../../CSSHomework-image/lapMan.png"),
+     url("../../CSSHomework-image/telMan.png"),
+    url("../../CSSHomework-image/Illustration.png"), 
+    url("../../CSSHomework-image/Union.png"), 
+    url("../../CSSHomework-image/paperairplane.png"),
+    url("../../CSSHomework-image/Rocket.svg"),
+    url("../../CSSHomework-image/whiteBackg.png"),
+    url("../../CSSHomework-image/cloud.png"),
+    url("../../CSSHomework-image/smallRocket.png"),
+    url("../../CSSHomework-image/orangeBack.png"),
+    url("../../CSSHomework-image/lastBlack.png");
+    background-repeat: no-repeat;
+    background-position: top 119px left 878px,
+     top 119px left 1020px,
+     top right, 
+     center 1190px,
+     top 2132px right, 
+     top 3024px right 250px,
+     center 2600px,
+     top 4050px left 40px,
+     top 4010px right,
+     top 3700px left,
+     bottom;
+    background-size: 352px 625px,
+     595px 617px,
+     900px 1060px,
+     1965px,
+     232px,
+     618px, 
+     auto 1400px,
+     292px, 
+     300px, 
+     auto 1690px, 
+     auto;
+}
+
+div, h4, h3, h2, h1, span, p, img, main, article, footer, header{
+    background-image: unset;
+}
+
+.mainHeaderDiv {
+    height: 800px;
+    
+}
+
+
+.headerDiv {
+    display: inline-block;
+}
+
+.logo_img {
+    width: 174px;
+    height: 35px;
+    margin: 45px 0 0 32px;
+}
+
+
+.header_text {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 163px;
+}
+
+.header_p {
+    font-size: 18px;
+    color: rgb(0, 102, 255);
+    padding: 5px;
+}
+
+.header_h1 {
+    font-size: 48px;
+    display: inline-block;
+    width: 435px;
+    height: 162px;
+    margin-bottom: 20px;
+    
+}
+
+.header-p {
+    width: 511px;
+    color: #191B21;
+}
+
+.header_span {
+    color: #fff;
+    background-color: #137b13;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 52px;
+    display: inline-block;
+}
+
+
+.ourTeam_span {
+    color: #fff;
+    margin-left: 689px;
+    width: 58px;
+    text-decoration: underline;
+}
+
+.tokens_span {
+    color: #fff;
+    margin-left: 24px;
+    width: 45px;
+    text-decoration: underline;
+}
+
+.connect_span {
+    color: #fff;
+    width: 101px;
+    margin-left: 24px;
+    text-decoration: underline;
+}
+
+.lightpaper_span {
+    color: #fff;
+    margin-left: 24px;
+    width: 68px;
+    text-decoration: underline;
+}
+
+.signIn_span {
+    color: #fff;
+    margin-left: 80px;
+    width: 41px;
+    text-decoration: underline;
+}
+
+.signUp_span {
+    color: #000;
+    margin-left: 24px;
+    padding: 20px ;
+    background-color: #fff;
+    border-radius: 52px;
+
+}
+
+/* article */
+
+.blackDiv{
+    background-image: unset;
+    height: 1360px;
+}
+
+
+
+.creators-container {
+    background-image: url("../../CSSHomework-image/Character.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 217px;
+    border-radius: 25px;
+    background-color: #F2F0F4F2;
+    width: 618px;
+    display: inline-block;
+    vertical-align: text-top;
+    height: 800px;
+}
+
+.creators_h1 {
+    font-size: 36px;
+    text-align: center;
+    color: #191B21;
+    padding: 123px 0 30px 0;
+}
+
+.creators_span {
+    color: #22A75D;
+    text-decoration: underline;
+}
+
+.creators_p {
+    text-align: center;
+    color: #191B21;
+    padding: 0 25px;
+}
+
+
+
+.hodlers-container {
+    background-image: url("../../CSSHomework-image/Frame.png");
+    background-repeat: no-repeat;
+    background-size: 217px 435px;
+    background-position: bottom;
+    display: inline-block;
+    width: 618px;
+    background-color: #F2F0F4F2;
+    border-radius: 25px;
+    margin-left: 16px;
+    vertical-align: text-top;
+    height: 800px;
+}
+
+.hodlers-span {
+    text-align: center;
+    color: #191B21;
+    display: inline-block;
+    padding: 32px 302px 70px 302px;
+}
+
+.hodlers_h1 {
+    font-size: 36px;
+    color: #191B21;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.hodlers_span {
+    color: #2278D4;
+    text-decoration: underline;
+}
+
+.hodlers_p {
+    color: #191B21;
+    text-align: center;
+    margin-top: 30px;
+    padding: 0 25px;
+    display: inline-block;
+}
+
+.choose-container {
+    width: 1260px;
+    margin: 0 auto;
+}
+
+
+
+.icon_img {
+    vertical-align: top;
+}
+
+.blackContainer {
+    width: 1120px;
+    margin: 70px auto;
+}
+
+.black_h2 {
+    margin-left: 62px;
+    color: #F7F5F9;
+    font-size: 48px;
+    width: 315px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bar_span {
+    color: #1D1534;
+    display: block;
+}
+
+.black_p {
+    vertical-align: top;
+    width: 535px;
+    color: #fff;
+    display: inline-block;
+    margin-left: 160px;
+    vertical-align: text-top;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 220px;
+    color: #fff;
+    display: inline-block;
+    margin: 0 0 0 139px;
+}
+
+
+
+
+/* paper div CSS */
+
+.paperDiv {
+    width: 1400px;
+    margin: 0 auto;
+    height: 500px;
+    margin-top: 200px;
+}
+
+
+.paperDiv span {
+    margin: 10px;
+    color: #2278D4;
+}
+
+.paperDiv div {
+    margin: 0 20px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.paperDiv p {
+    margin: 10px 0;
+    display: inline-block;
+}
+
+.firstDiv {
+    width: 300px;
+}
+
+.secondDiv {
+    width: 300px;
+}
+
+.therdDiv {
+    width: 270px;
+}
+
+.fourthDiv {
+    width: 350px;
+}
+
+
+
+/* last container */
+
+.lastContainer {
+    height: 2400px;
+}
+
+
+.whiteContainer {
+    width: 1300px;
+    margin: 0 auto;
+    margin-top: 180px;
+}
+
+.white_h3 {
+    font-size: 36px;
+    display: inline-block;
+}
+
+.white_p {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    color: #191B21;
+    width: 508px;
+}
+
+.dot_span {
+    display: block;
+    color: #F2F0F4;
+}
+
+.orangeContainer {
+    width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.orange_h2 {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 400px;
+    color: #F7F5F9;
+}
+
+.boxs {
+    width: 390px;
+    height: 585px;
+    background-color: #fff;
+    border-radius: 25px;
+    display: inline-block;
+    background-position: center 67px;
+    background-size: 200px;
+    margin: 80px 20px;
+    text-align: center;
+}
+
+.boxs h4 {
+    font-size: 32px;
+    margin-top: 170px;
+    margin-bottom: 10px;
+}
+
+.boxs p {
+    margin: 10px auto;
+}
+
+.oneContainer {
+    background-image: url("../../CSSHomework-image/01.svg");
+    vertical-align: bottom;
+}
+
+.twoContainer { 
+    margin-bottom: 40px;
+    background-image: url("../../CSSHomework-image/02.svg");
+}
+
+.threeContainer {
+    vertical-align: bottom;
+    background-image: url("../../CSSHomework-image/03.svg");
+}
+
+.boxs .BNB_p {
+    font-size: 20px;
+    margin: 70px auto 20px auto; 
+}
+
+.last_h4 {
+    margin-top: 90px;
+    margin-bottom: 30px;
+    color: #F7F5F9;
+}
+
+.last_h4 ~ p {
+    margin-bottom: 10px;
+    color: #F7F5F9;
+}
+
+/* footer Container */
+
+footer {
+    height: 300px;
+}
+
+.contactDiv {
+    width: 1184px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.endNavDiv {
+    color: #ffffff;
+    width: 770px;
+    margin: 0 auto;
+}
+
+.endNavDiv span {
+    margin-left: 65px;
+    display: inline-block;
+}
+
+.social_logos {
+    border: 1px solid #ffffff2c;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.socialsDiv {
+    display: inline-block;
+    width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.last_text {
+    display: inline-block;
+    color: #fff;
+}
+
+.last_p {
+    display: inline-block;
+}
+
+.last-p {
+    text-align: end;
+}

@@ -1,0 +1,481 @@
+* {
+    margin: 0;
+}
+
+/* პირველი div-ის CSS-ის საწყისი */
+
+#firstDiv {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 10px;
+    width: 1499px;
+}
+
+#firstSpan {
+    margin: 10px;
+}
+
+#secondSpan {
+    margin: 15px;
+}
+
+#thirdSpan {
+    margin: 15px;
+}
+
+#fourthSpan {
+    margin: 15px;
+}
+
+#fifthSpan {
+    margin: 15px;
+}
+
+/* პირველი div-ის CSS-ის დასასრული */
+
+
+/* მეორე div-ის CSS-ის საწყისი */
+
+#second-img{
+    display: block;
+    width: 750px;
+    margin: 0 auto;
+}
+
+/* მეორე div-ის CSS-ის დასასრული */
+
+
+/* მესამე div-ის CSS-ის საწყისი */
+
+#thirdDiv {
+    text-align: center;
+    color: #fff;
+    margin-top: -50px;
+    margin-bottom: 80px;
+}
+
+#first-p {
+    margin-bottom: 10px;
+
+}
+
+#second-p {
+    font-size: 12px;
+}
+
+/* მესამე div-ის CSS-ის დასასრული */
+
+
+/* მეოთხე div-ის CSS-ის საწყისი */
+
+#fourthDiv { 
+    text-align: center; 
+}
+
+#fourth-h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#fourth-P{
+    text-align: center;
+    color: grey;
+    margin-bottom: 9px;
+    font-style: italic;
+}
+
+#fourth-p {
+    display: inline-block;
+    text-align: justify;
+    margin-bottom: 30px;
+    height: 100px;
+    width: 550px;
+    font-size: 12px;
+}
+
+/* მეოთხე div-ის CSS-ის დასარული */
+
+
+/* მეხუთე div-ის CSS-ის საწყისი */
+
+#fifthDiv {
+    width: 800px;
+    margin-bottom: 80px;
+    margin: auto;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 60px;
+}
+
+#fifth-firstDiv {
+    display: inline-block;
+    margin: 0 50px;
+}
+
+#fifth-first_img {
+    border-radius: 3%;
+    width: 100px;
+    height: 150px;
+}
+
+#fifth-secondDiv {
+    display: inline-block;
+
+}
+
+#fifth-second_img {
+    border-radius: 3%;
+    width: 100px;
+    height: 150px;
+    margin: 0 50px;
+}
+
+#fifth-thirdDiv {
+    display: inline-block;
+    margin: 0 50px;
+}
+
+#fifth-third_img {
+    border-radius: 3%;
+    width: 100px;
+    height: 150px;
+}
+
+#fifth-first_p {
+    margin-bottom: 15px;
+}
+
+#fifth-second_p {
+    margin-bottom: 15px;
+}
+
+#fifth-third_p {
+    margin-bottom: 15px;
+}
+
+/* მეხუთე div-ის CSS-ის დასასრული */
+
+
+/* მეექვსე div-ის CSS-ის საწყისი */
+
+#sixthDiv {
+    display: block;
+    background-color: black;
+    padding: 50px;
+    padding-bottom: 60px;
+    color: #fff;
+    width: 930px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#sixth-first_h2 {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+#sixth-first_p {
+    font-style: italic;
+    text-align: center;
+    color: #808080;
+    font-size: 10px;
+    margin-bottom: 30px;
+}
+
+#sixth-second_p {
+    background-color: #fff;
+    color: #808080;
+    margin: 0 auto;
+    padding: 5px 10px;
+    font-size: 10px;
+}
+
+#sixth-secondDiv {
+    width: 540px;
+    margin: auto;
+}
+
+#sixth-firstSpan {
+    background-color: #f00;
+    color: #fff;
+    padding: 2px 2px 1px 2px;
+    margin: 0 10px ;
+}
+
+#sixth-third_p {
+    color: #808080;
+    background-color: #fff;
+    padding: 5px 10px;
+    margin: 0 auto;
+    width: 519px;
+    border: 1px solid #000;
+    font-size: 10px;
+}
+
+#sixth-secondSpan {
+    background-color: #f00;
+    color: #fff;
+    padding: 2px 2px 1px 2px;
+    margin: 0 10px;
+}
+
+#sixth-fourth_p {
+    background-color: #fff;
+    color: #808080;
+    font-size: 10px;
+    padding: 5px 10px;
+    margin: 0 auto;
+}
+
+#sixth-secondDiv {
+    margin-bottom: 20px;
+}
+
+#sixth_thirdDiv-first_div {
+    background-color: #fff;
+    color: #000;
+    width: 164px;
+    height: 290px;
+    display: inline-block;
+}
+
+#sixth-first_img {
+    width: 100%;
+    height: 122px;
+}
+
+#sixth-first_h4 {
+    margin: 10px;
+}
+
+#sixth-fifth_p {
+    color: #808080;
+    font-size: 15px;
+    margin: 10px;
+}
+
+#sixth-sixth_p {
+    width: 155px;
+    margin: 10px;
+    
+}
+
+#sixth-thirdSpan {
+    background-color: #000;
+    color: #fff;
+    margin: 10px 10px;
+    padding: 5px;
+}
+
+#sixth_thirdDiv-second_div {
+    color: #000;
+    width: 164px;
+    background-color: #fff;
+    height: 290px;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+#sixth-second_img {
+    width: 100%;
+    height: 122px;
+}
+
+#sixth-second_h4 {
+    margin: 10px;
+}
+
+#sixth-seventh_p {
+    margin: 10px;
+    font-size: 15px;
+    color: #808080;
+}
+
+#sixth-eighth_p {
+    margin: 10px;
+}
+
+#sixth-fourthSpan {
+    background-color: #000;
+    color: #fff;
+    margin: 10px;
+    padding: 5px;
+}
+
+#sixth_thirdDiv-third_div {
+    background-color: #fff;
+    height: 290px;
+    width: 164px;
+    color: #000;
+    display: inline-block;
+}
+
+#sixth-third_img {
+    width: 100%;
+    height: 122px;
+}
+
+#sixth-third_h4 {
+    margin: 10px;
+}
+
+#sixth-nineth_p {
+    margin: 10px;
+    color: #808080;
+    font-size: 15px;
+}
+
+#sixth-tenth_p {
+    margin: 10px;
+}
+
+#sixth-fifthSpan {
+    background-color: #000;
+    color: #fff;
+    margin: 10px;
+    padding: 5px;
+}
+
+#sixth-thirdDiv {
+    width: 540px;
+    margin: 0 auto;
+}
+
+/* მეექვსე div-ის CSS-ის დასასრული */
+
+
+/* მეშვიდე div-ის CSS-ის საწყისი */
+
+#seventh-firstDiv {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#seventh-first_h3 {
+    margin-bottom: 10px;
+}
+
+#seventh-first_p {
+    font-style: italic;
+    color: #808080;
+    font-size: 10px;
+}
+
+#seventh-secondDiv {
+    margin-bottom: 10px;
+    width: 450px;
+    margin: auto;
+    display: inline-block;
+}
+
+#seventh_secondDiv-first_div {
+    margin: 10px 135px;
+    margin-bottom: 2px;
+}
+
+#seventh-first_img {
+    width: 15px;
+}
+
+#seventh_secondDiv-second_div {
+    margin: 2px 135px;
+}
+
+#seventh-second_img {
+    width: 15px;
+}
+
+#lastDiv {
+    width: 680px;
+    margin: auto;
+}
+#seventh_secondDiv-third_div {
+    margin: 2px 135px;
+}
+
+#seventh-third_img {
+    width: 15px;
+}
+
+#seventh-thirdDiv {
+    display: inline-block;
+}
+
+#seventh-fourth_span {
+    color: #808080;
+    padding: 5px;
+    border: 1px solid #808080;
+    padding-right: 60px;
+}
+
+#seventh-fifth_span {
+    color: #808080;
+    padding: 5px;
+    border: 1px solid #808080;
+    padding-right: 60px;
+    margin-left: 5px;
+}
+
+#seventh-sixth_span {
+    color: #808080;
+    padding: 5px;
+    border: 1px solid #808080;
+    display: block;
+    margin-top: 10px;
+}
+
+#seventh-thirdDiv-second_div {
+    width: 150px;
+    margin-left: 940px;
+}
+
+#seventh-seventh_span {
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    display: inline-block;
+}
+
+#seventh-thirdDiv-second_div {
+    text-align: end;
+    margin-top: 10px;
+}
+
+#seventh-fourth_img {
+    width: 100%;
+}
+
+#seventh-fourthDiv-first_div {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#seventh-fifth_img {
+    width: 15px;
+}
+
+#seventh-sixth_img {
+    width: 14px;
+}
+
+#seventh-seventh_img {
+    width: 15px;
+}
+
+#seventh-eighth_img {
+    width: 15px;
+}
+
+#seventh-nineth_img {
+    width: 15px;
+}
+
+#seventh-fourthDiv-second_div {
+    width: 120px;
+    margin: auto;
+
+}
+
+/* მეშვიდე div-ის CSS-ის დასასრული */
